@@ -1,0 +1,98 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=2857 outsize=2863 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2863 outsize=200317 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11176 outsize=21869 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=11176 outsize=48093 ok=1
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=2857 outsize=2863 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=2857 outsize=2863 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: preprocessCompute
+  insize=5014 outsize=5022 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=5022 outsize=11245 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5022 outsize=17217 ok=1
+Cmd: preprocessCompute
+  insize=3526 outsize=3532 ok=1
+Cmd: preprocessCompute
+  insize=18709 outsize=18731 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=16521 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=24429 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=33289 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=32873 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=57601 ok=1
+Cmd: preprocessCompute
+  insize=5587 outsize=5591 ok=1
+Cmd: preprocessCompute
+  insize=2947 outsize=2953 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2953 outsize=1237 ok=1
+Cmd: preprocessCompute
+  insize=1858 outsize=1864 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1864 outsize=2481 ok=1
+Cmd: preprocessCompute
+  insize=1499 outsize=1505 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1505 outsize=2329 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2120 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2120 outsize=4157 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=2128 outsize=2134 ok=1
+Cmd: preprocessCompute
+  insize=1220 outsize=1226 ok=1
+Cmd: preprocessCompute
+  insize=2857 outsize=2863 ok=1
+Cmd: preprocessCompute
+  insize=11166 outsize=11176 ok=1
+Cmd: preprocessCompute
+  insize=5014 outsize=5022 ok=1
+Cmd: preprocessCompute
+  insize=3526 outsize=3532 ok=1
+Cmd: preprocessCompute
+  insize=18709 outsize=18731 ok=1
+Cmd: preprocessCompute
+  insize=5587 outsize=5591 ok=1
+Cmd: preprocessCompute
+  insize=2947 outsize=2953 ok=1
+Cmd: preprocessCompute
+  insize=1858 outsize=1864 ok=1
+Cmd: preprocessCompute
+  insize=1499 outsize=1505 ok=1
+Cmd: preprocessCompute
+  insize=2114 outsize=2120 ok=1
